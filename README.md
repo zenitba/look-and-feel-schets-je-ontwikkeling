@@ -1,11 +1,4 @@
-> _Fork_ deze deeltaak en ga aan de slag. 
-De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
+# Zenit PraatPlaat!
 
-# Naam deeltaak
-
-
-## Licentie
-
-![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
-
-This work is licensed under [GNU GPLv3](./LICENSE).
+![tempImageYqFbqS](https://user-images.githubusercontent.com/112856019/207007708-97d03549-2964-4860-a071-290202af0fee.gif)
+ 
